@@ -1,0 +1,221 @@
+{
+  "section": "6.1-6.4",
+  "title": "The Story of Fractions",
+  "learningObjective": "Section 6.1: Model and compare fractions using visual, verbal, and symbolic representations, and explain how these models support conceptual understanding and simplification strategies. Section 6.2: Analyze and compute sums and differences of fractions, applying addition and subtraction properties and using estimation techniques to verify the reasonableness of results in real-world problems. Section 6.3: Use visual models and real-life contexts to represent and compute multiplication and division of fractions, justifying the methods chosen and interpreting the results. Section 6.4: Evaluate the application of mental math and estimation techniques for operations with fractions, including rounding, range estimation, and using compatible numbers to simplify calculations.",
+  "faqs": [
+    {
+      "id": "faq-1",
+      "category": "conceptual",
+      "question": "Why do students struggle so much with fractions, and what does research tell us about how to teach them better?",
+      "answer": "<p>Your textbook opens Chapter 6 with a direct answer: students struggle because they treat fractions as <em>two separate whole numbers</em> rather than a single number representing a part of a whole. This one misconception cascades into errors across every fraction operation.</p><div class=\"example-box\"><div class=\"label\">The Three Core Challenges (from your textbook)</div><p class=\"math-line\"><strong>1. Whole-number reasoning applied incorrectly:</strong> Students believe \\(\\tfrac{1}{20} > \\tfrac{1}{10}\\) because 20 > 10.</p><p class=\"math-line\"><strong>2. Only the part-whole model:</strong> Fractions also represent measurement, division, ratio, and operator — but most students only see \"pieces of pie.\"</p><p class=\"math-line\"><strong>3. Procedures before meaning:</strong> \"Invert and multiply\" taught before students understand what division of fractions even means leads to memorization without understanding.</p></div><p><strong>What the research says:</strong> Prioritize deep conceptual understanding over procedural rules. Use multiple visual models — fraction strips, number lines, area models, set models — before introducing any algorithm. As a future teacher, your goal is for students to <em>make sense</em> of fractions, not just execute steps.</p>"
+    },
+    {
+      "id": "faq-2",
+      "category": "conceptual",
+      "question": "What are the different ways a fraction can be interpreted, and why does it matter for teaching?",
+      "answer": "<p>Your textbook identifies that fractions represent <strong>multiple distinct ideas</strong> depending on context. Most elementary instruction focuses on only one, which limits students' understanding.</p><div class=\"example-box\"><div class=\"label\">Five Interpretations of a Fraction</div><p class=\"math-line\"><strong>Part-Whole:</strong> \\(\\tfrac{3}{4}\\) means 3 out of 4 equal parts of a whole — the most common elementary model.</p><p class=\"math-line\"><strong>Measurement/Number Line:</strong> \\(\\tfrac{3}{4}\\) is a specific point on the number line, a distance from 0.</p><p class=\"math-line\"><strong>Division:</strong> \\(\\tfrac{3}{4}\\) means \\(3 \\div 4\\) — three items shared equally among four people.</p><p class=\"math-line\"><strong>Ratio:</strong> \\(\\tfrac{3}{4}\\) describes a relationship between two quantities (3 to 4).</p><p class=\"math-line\"><strong>Operator:</strong> \\(\\tfrac{3}{4}\\) of something — a scaling action (\"take three-fourths of 8\").</p></div><p>As a future teacher, exposing students to all five interpretations — not just the pie model — builds the flexible understanding they'll need for ratios, proportions, and algebraic reasoning later on.</p>"
+    },
+    {
+      "id": "faq-3",
+      "category": "conceptual",
+      "question": "What are equivalent fractions, and how can we help students understand them conceptually rather than just as a procedure?",
+      "answer": "<p>Two fractions are <strong>equivalent</strong> if they represent the same relative amount — the same point on the number line, the same shaded portion of a whole.</p><div class=\"example-box\"><div class=\"label\">The Core Theorem (Section 6.1)</div><p class=\"math-line\">For any fraction \\(\\tfrac{a}{b}\\) and nonzero whole number \\(n\\):</p><p class=\"math-line\">\\[ \\frac{a}{b} = \\frac{a \\cdot n}{b \\cdot n} \\]</p><p class=\"math-line\">Multiplying both numerator and denominator by the same number is the same as multiplying by 1 — the value doesn't change, only how we name it.</p></div><p><strong>Conceptual teaching moves:</strong></p><ul><li>Use <strong>fraction strips</strong>: lay \\(\\tfrac{1}{3}\\) over \\(\\tfrac{2}{6}\\) and \\(\\tfrac{4}{12}\\) — they all cover the same length.</li><li>Use the <strong>number line</strong>: mark \\(\\tfrac{1}{4}\\), \\(\\tfrac{2}{8}\\), \\(\\tfrac{3}{12}\\) — they land on the same point.</li><li>Ask students: \"If we cut each piece into smaller pieces but don't change what we have, do we have more or less?\" The answer is neither — we just renamed it.</li></ul><p>Your textbook also introduces the <strong>cross-multiplication test</strong>: \\(\\tfrac{a}{b} = \\tfrac{c}{d}\\) if and only if \\(ad = bc\\) — a fast check, but only meaningful after students understand the concept.</p>"
+    },
+    {
+      "id": "faq-4",
+      "category": "conceptual",
+      "question": "How do we teach students to compare and order fractions without just finding common denominators every time?",
+      "answer": "<p>Your textbook treats fraction comparison as a <em>thinking activity</em>, not just an algorithm. Section 6.1 develops multiple strategies, each building genuine number sense.</p><div class=\"example-box\"><div class=\"label\">Four Comparison Strategies from Section 6.1</div><p class=\"math-line\"><strong>Same denominator:</strong> Compare numerators directly. \\(\\tfrac{5}{8} > \\tfrac{3}{8}\\) because 5 > 3.</p><p class=\"math-line\"><strong>Same numerator:</strong> Larger denominator = smaller pieces. \\(\\tfrac{3}{5} > \\tfrac{3}{8}\\) because fifths are bigger than eighths.</p><p class=\"math-line\"><strong>Benchmark reasoning:</strong> Compare both fractions to 0, \\(\\tfrac{1}{2}\\), or 1. \"\\(\\tfrac{5}{6}\\) is close to 1; \\(\\tfrac{5}{9}\\) is just above \\(\\tfrac{1}{2}\\) — so \\(\\tfrac{5}{6} > \\tfrac{5}{9}\\).\"</p><p class=\"math-line\"><strong>Howie Hua's method:</strong> Cross-multiply and compare. \\(\\tfrac{7}{8}\\) vs. \\(\\tfrac{9}{11}\\): \\(7 \\times 11 = 77\\) vs. \\(9 \\times 8 = 72\\) → \\(\\tfrac{7}{8} > \\tfrac{9}{11}\\).</p></div><div class=\"example-box\"><div class=\"label\">Finding a Fraction Between Two Fractions (Theorem 6.1.3)</div><p class=\"math-line\">If \\(\\tfrac{a}{b} < \\tfrac{c}{d}\\), then: \\(\\quad\\tfrac{a}{b} < \\dfrac{a+c}{b+d} < \\tfrac{c}{d}\\)</p><p class=\"math-line\">Example: Between \\(\\tfrac{3}{4}\\) and \\(\\tfrac{4}{5}\\): \\(\\quad \\tfrac{3+4}{4+5} = \\tfrac{7}{9}\\) ✓</p></div>"
+    },
+    {
+      "id": "faq-5",
+      "category": "conceptual",
+      "question": "What visual models does the textbook use to teach fraction addition and subtraction, and why does the model matter before the algorithm?",
+      "answer": "<p>Your textbook (Section 6.2) insists that visual models must come <em>before</em> the common-denominator algorithm — because the algorithm only makes sense once students understand what it means to add parts of the same size.</p><div class=\"example-box\"><div class=\"label\">The Core Principle</div><p class=\"math-line\">You can only add or subtract fractions directly when the parts are the <em>same size</em> — that is, when denominators are the same. Adding \\(\\tfrac{1}{4} + \\tfrac{1}{3}\\) without a common denominator is like adding apples to oranges.</p></div><p><strong>Key models in Section 6.2:</strong></p><ul><li><strong>Fraction strips:</strong> Students physically align strips to see that \\(\\tfrac{1}{4}\\) and \\(\\tfrac{1}{3}\\) pieces don't match up — motivating the need for a common denominator.</li><li><strong>Number line:</strong> Jumping forward (addition) and backward (subtraction) on a number line makes the operation visible and directional.</li><li><strong>Area model:</strong> Drawing a rectangle and partitioning it into rows and columns reveals why \\(\\tfrac{1}{4} + \\tfrac{1}{3} = \\tfrac{3}{12} + \\tfrac{4}{12}\\).</li></ul><p>Only after working through these models does the algorithm — find the LCM, convert, add numerators — feel necessary and sensible rather than arbitrary.</p>"
+    },
+    {
+      "id": "faq-6",
+      "category": "conceptual",
+      "question": "What are the three cases of fraction multiplication, and why does each require a different conceptual approach?",
+      "answer": "<p>Your textbook (Section 6.3) explicitly identifies <strong>three distinct cases</strong> of fraction multiplication, each with its own conceptual grounding. The algorithm \\(\\tfrac{a}{b} \\times \\tfrac{c}{d} = \\tfrac{ac}{bd}\\) applies to all three — but the <em>meaning</em> is different in each case, and future teachers need to know all three.</p><div class=\"example-box\"><div class=\"label\">The Three Cases</div><p class=\"math-line\"><strong>Case 1 — Whole × Fraction:</strong> \\(3 \\times \\tfrac{1}{4}\\) means <em>repeated addition</em> — add \\(\\tfrac{1}{4}\\) three times.</p><p class=\"math-line\"><strong>Case 2 — Fraction × Whole:</strong> \\(\\tfrac{1}{2} \\times 8\\) means \"take one-half <em>of</em> 8.\" We can't add 8 one-half times — instead, the word \"of\" signals scaling.</p><p class=\"math-line\"><strong>Case 3 — Fraction × Fraction:</strong> \\(\\tfrac{2}{3} \\times \\tfrac{3}{4}\\) means \"take two-thirds of three-fourths.\" This requires the <strong>area model</strong> — shade columns for one fraction, rows for the other; the overlap is the product.</p></div><p>The area model (Case 3) is the most important visual tool in Section 6.3 because it makes \\(\\tfrac{a}{b} \\times \\tfrac{c}{d} = \\tfrac{ac}{bd}\\) visible and inevitable rather than memorized.</p>"
+    },
+    {
+      "id": "faq-7",
+      "category": "conceptual",
+      "question": "Why does dividing by a fraction give a larger answer, and how can visual models help students make sense of this?",
+      "answer": "<p>\"Why does \\(\\tfrac{1}{2} \\div \\tfrac{1}{6} = 3\\)?\" is one of the most disorienting results in elementary mathematics — because students expect division to make things smaller. The answer lies in what division <em>means</em>.</p><div class=\"example-box\"><div class=\"label\">The Key Question Division Always Asks</div><p class=\"math-line\">\\(a \\div b\\) asks: <em>How many groups of size \\(b\\) fit into \\(a\\)?</em></p><p class=\"math-line\">\\(\\tfrac{1}{2} \\div \\tfrac{1}{6}\\): How many groups of \\(\\tfrac{1}{6}\\) fit into \\(\\tfrac{1}{2}\\)?</p><p class=\"math-line\">Answer: 3 — because three one-sixth pieces exactly fill one half. ✓</p></div><p>Your textbook (Section 6.3) uses the <strong>fraction tile model</strong> to make this visible: line up divisor tiles under the dividend and literally count how many fit. This physical reasoning is what gives \"invert and multiply\" its meaning — rather than being a rule that arrives from nowhere.</p><div class=\"example-box\"><div class=\"label\">⚠️ Critical Note for Future Teachers</div><p class=\"math-line\">The textbook warns explicitly: fractional quotients only make real-world sense for <strong>continuous</strong> quantities (distance, liquid, time, fabric). Avoid contexts like \"How many bows can you make?\" — you can't make \\(\\tfrac{1}{3}\\) of a bow. Choose contexts where being partway through a group is meaningful.</p></div>"
+    },
+    {
+      "id": "faq-8",
+      "category": "conceptual",
+      "question": "What are the four methods for dividing fractions, and when is each one most useful?",
+      "answer": "<p>Your textbook presents four methods for fraction division (Section 6.3), each revealing a different conceptual connection. Knowing all four makes you a more flexible teacher.</p><div class=\"example-box\"><div class=\"label\">Four Division Methods</div><p class=\"math-line\"><strong>1. Invert and Multiply:</strong> \\(\\tfrac{a}{b} \\div \\tfrac{c}{d} = \\tfrac{a}{b} \\times \\tfrac{d}{c}\\). Works for any fraction division — the standard algorithm. Most widely applicable.</p><p class=\"math-line\"><strong>2. Common Denominator:</strong> Convert both to the same denominator, then divide numerators. Best when fractions already share a denominator: \\(\\tfrac{6}{8} \\div \\tfrac{2}{8} = 6 \\div 2 = 3\\).</p><p class=\"math-line\"><strong>3. Missing Factor:</strong> Rewrite \\(a \\div b = ?\\) as \\(? \\times b = a\\). Turns division into multiplication — great for building conceptual understanding and connecting operations.</p><p class=\"math-line\"><strong>4. Divide Across:</strong> Divide numerator by numerator, denominator by denominator. Works when they divide evenly: \\(\\tfrac{6}{8} \\div \\tfrac{2}{4} = \\tfrac{3}{2}\\).</p></div><p>The textbook's interactive division explorer lets students work through all four methods side by side — a powerful tool for seeing that all roads lead to the same answer.</p>"
+    },
+    {
+      "id": "faq-9",
+      "category": "sticking-points",
+      "question": "Why can't you just add the numerators and denominators when adding fractions?",
+      "answer": "<p>This is the most common fraction addition error — and understanding <em>why</em> it's wrong is exactly what a future teacher needs.</p><p>The error: \\(\\tfrac{1}{2} + \\tfrac{1}{3} = \\tfrac{2}{5}\\). This treats numerator and denominator as independent whole numbers — exactly the misconception your textbook identifies as the root cause of fraction difficulty.</p><div class=\"example-box\"><div class=\"label\">Why It's Wrong — A Visual Argument</div><p class=\"math-line\">\\(\\tfrac{1}{2}\\) is one of two equal parts. \\(\\tfrac{1}{3}\\) is one of three equal parts. The parts are <em>different sizes</em> — you can't combine them until they're the same size.</p><p class=\"math-line\">Imagine: \"I ate half a small pizza and a third of a large pizza. Did I eat \\(\\tfrac{2}{5}\\) of a pizza?\" — of course not. The wholes aren't even the same.</p></div><p>The correct approach: convert to a common denominator so the parts become the same size, then add the numerators only: \\(\\tfrac{1}{2} + \\tfrac{1}{3} = \\tfrac{3}{6} + \\tfrac{2}{6} = \\tfrac{5}{6}\\).</p><p><strong>Note:</strong> Adding numerators and denominators <em>does</em> give you something meaningful — it gives the fraction between the two (Theorem 6.1.3), just not their sum. Knowing this distinction makes you a better teacher when students ask \"what did I actually calculate?\"</p>"
+    },
+    {
+      "id": "faq-10",
+      "category": "sticking-points",
+      "question": "How do I simplify fractions — and what's wrong with the word 'reducing'?",
+      "answer": "<p>Your textbook makes an important language distinction: we say <strong>\"simplify\"</strong> rather than \"reduce\" — because fractions are not reduced in <em>value</em>, only in <em>complexity</em>. The fraction \\(\\tfrac{60}{210}\\) and \\(\\tfrac{2}{7}\\) represent exactly the same amount.</p><div class=\"example-box\"><div class=\"label\">How to Simplify</div><p class=\"math-line\">Divide numerator and denominator by their GCF (from Chapter 5!).</p><p class=\"math-line\">\\(\\tfrac{72}{240}\\): GCF(72, 240) = 24 → \\(\\tfrac{72 \\div 24}{240 \\div 24} = \\tfrac{3}{10}\\)</p><p class=\"math-line\">A fraction is in <strong>simplest form</strong> when the numerator and denominator are relatively prime (GCF = 1).</p></div><p>This is a direct connection back to Chapter 5: GCF isn't just an abstract number theory concept — it's the exact tool you need to simplify fractions efficiently. Students who understand GCF deeply simplify fractions fluently. Students who don't, struggle.</p>"
+    },
+    {
+      "id": "faq-11",
+      "category": "sticking-points",
+      "question": "How do benchmark fractions help with estimation, and why does the textbook emphasize estimation before computation?",
+      "answer": "<p>Section 6.4 centers on a crucial habit: <em>before computing</em>, ask \"about how big should the answer be?\" Benchmark fractions (0, \\(\\tfrac{1}{2}\\), 1) are the anchors for this estimation.</p><div class=\"example-box\"><div class=\"label\">Estimation Strategies from Section 6.4</div><p class=\"math-line\"><strong>Benchmark comparison:</strong> Is the fraction closer to 0, \\(\\tfrac{1}{2}\\), or 1? \\(\\tfrac{5}{6}\\) is close to 1; \\(\\tfrac{5}{9}\\) is just above \\(\\tfrac{1}{2}\\) — so their sum is close to \\(1\\tfrac{1}{2}\\).</p><p class=\"math-line\"><strong>Range estimation:</strong> \\(\\tfrac{3}{7} + \\tfrac{2}{5}\\) — both are less than \\(\\tfrac{1}{2}\\), so the sum is less than 1.</p><p class=\"math-line\"><strong>Compatible numbers:</strong> Round to the nearest \\(\\tfrac{1}{4}\\) or \\(\\tfrac{1}{2}\\) to simplify mental calculation.</p></div><p>The textbook emphasizes estimation <em>first</em> because students who estimate first catch their own errors — a \\(\\tfrac{8}{5}\\) answer to \\(\\tfrac{1}{4} + \\tfrac{1}{3}\\) should immediately feel wrong. Estimation builds the number sense that makes computation errors self-correcting.</p>"
+    },
+    {
+      "id": "faq-12",
+      "category": "sticking-points",
+      "question": "When multiplying fractions, why does the product sometimes come out smaller than both factors?",
+      "answer": "<p>This surprises students because it contradicts their whole-number intuition that \"multiplication makes bigger.\" With fractions less than 1, the opposite is true — and understanding <em>why</em> is a key SLO 6.3 goal.</p><div class=\"example-box\"><div class=\"label\">The Conceptual Explanation</div><p class=\"math-line\">\\(\\tfrac{1}{2} \\times \\tfrac{3}{4}\\) means \"take one-half <em>of</em> three-fourths.\"</p><p class=\"math-line\">If you take a fraction of something, you get <em>less</em> than what you started with.</p><p class=\"math-line\">Result: \\(\\tfrac{3}{8}\\) — which is less than both \\(\\tfrac{1}{2}\\) and \\(\\tfrac{3}{4}\\). ✓</p></div><div class=\"example-box\"><div class=\"label\">The General Rule (SLO 6.3 / Standard 5.NF.5)</div><p class=\"math-line\">If you multiply by a fraction <strong>less than 1</strong>, the product is smaller than the other factor.</p><p class=\"math-line\">If you multiply by a fraction <strong>greater than 1</strong>, the product is larger.</p><p class=\"math-line\">If you multiply by exactly <strong>1</strong>, the product is unchanged.</p></div><p>The area model makes this visible: the overlap region is always a smaller portion of the whole. Teaching students to predict whether the product will be larger or smaller — before computing — is a powerful estimation habit tied directly to SLO 6.4.</p>"
+    },
+    {
+      "id": "faq-13",
+      "category": "connections",
+      "question": "How does the Chapter 5 number theory content connect to everything we do with fractions in Chapter 6?",
+      "answer": "<p>This connection is one of the most important threads in the entire book. Every major fraction skill in Chapter 6 draws directly on number theory from Chapter 5.</p><div class=\"example-box\"><div class=\"label\">The Direct Connections</div><p class=\"math-line\"><strong>Simplifying fractions</strong> → GCF: \\(\\tfrac{18}{24}\\) simplifies by dividing by \\(\\text{GCF}(18,24) = 6\\) → \\(\\tfrac{3}{4}\\)</p><p class=\"math-line\"><strong>Finding common denominators</strong> → LCM: \\(\\tfrac{1}{4} + \\tfrac{1}{6}\\) needs \\(\\text{LCM}(4,6) = 12\\) as the common denominator</p><p class=\"math-line\"><strong>Lowest terms test</strong> → Relatively prime: \\(\\tfrac{a}{b}\\) is in simplest form if and only if \\(\\text{GCF}(a,b) = 1\\)</p><p class=\"math-line\"><strong>Equivalent fractions</strong> → Prime factorization: seeing that \\(\\tfrac{12}{18} = \\tfrac{2^2 \\cdot 3}{2 \\cdot 3^2}\\) reveals the common factors directly</p></div><p>Students who struggle with fraction operations almost always have gaps in factor and multiple fluency. As a future teacher, you can use fraction work to revisit and deepen number theory — and use number theory as advance preparation before each fraction operation unit.</p>"
+    },
+    {
+      "id": "faq-14",
+      "category": "connections",
+      "question": "How does fraction division connect to multiplication — and what is the 'missing factor' interpretation?",
+      "answer": "<p>Your textbook presents the <strong>Missing Factor method</strong> as the conceptual bridge between fraction division and multiplication: every division problem can be rewritten as a multiplication problem with an unknown factor.</p><div class=\"example-box\"><div class=\"label\">The Missing Factor Interpretation</div><p class=\"math-line\">\\(\\tfrac{3}{4} \\div \\tfrac{1}{2} = ?\\) is the same question as: \\(? \\times \\tfrac{1}{2} = \\tfrac{3}{4}\\)</p><p class=\"math-line\">Solving: \\(? = \\tfrac{3}{4} \\times 2 = \\tfrac{3}{2}\\)</p></div><p>This interpretation makes visible why \"invert and multiply\" works: to undo multiplication by \\(\\tfrac{c}{d}\\), you multiply by its reciprocal \\(\\tfrac{d}{c}\\). The algorithm isn't magic — it's the algebraic consequence of what division means.</p><p>For future teachers, this matters because students who learn \"flip the second fraction\" without this reasoning can't recover when they forget the rule. Students who understand the missing factor interpretation can reconstruct the algorithm from first principles.</p>"
+    },
+    {
+      "id": "faq-15",
+      "category": "connections",
+      "question": "How do fraction concepts in Chapter 6 lay the foundation for decimals, ratios, and percentages in Chapter 7?",
+      "answer": "<p>Your textbook is explicit: a strong foundation in fractions is critical for students' later success with decimals, percentages, ratios, and proportions. Chapter 7 is built directly on Chapter 6.</p><div class=\"example-box\"><div class=\"label\">The Chapter 6 → Chapter 7 Bridge</div><p class=\"math-line\"><strong>Fractions → Decimals:</strong> \\(\\tfrac{3}{4} = 0.75\\) because \\(3 \\div 4 = 0.75\\). Fraction-as-division (one of the five interpretations) is the key.</p><p class=\"math-line\"><strong>Fractions → Percents:</strong> \\(\\tfrac{3}{4} = 75\\%\\) because percent means \"per hundred\" — another equivalent fraction.</p><p class=\"math-line\"><strong>Fractions → Ratios:</strong> A ratio \\(3:4\\) is the same relationship as \\(\\tfrac{3}{4}\\), just written differently.</p><p class=\"math-line\"><strong>Fractions → Proportions:</strong> Solving \\(\\tfrac{3}{4} = \\tfrac{x}{20}\\) uses cross-multiplication from fraction equality (Theorem 6.1.1).</p></div><p>By Grade 7, students are expected to see fractions, decimals, and percents as <em>different representations of the same rational number</em>. Teachers who build this unified understanding in elementary school give students a major advantage in middle school mathematics.</p>"
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-1",
+      "title": "Fractions Children Learn in Elementary School",
+      "url": "https://www.youtube.com/watch?v=9IwVAXmrWK8",
+      "description": "Graham Fletcher traces the progression of fraction understanding across elementary grades (3–5), mapped to Common Core standards. Already embedded in Section 6.1 of your textbook — the perfect starting point for understanding what your future students will encounter.",
+      "category": "concepts-equivalence",
+      "relatedFaqs": ["faq-1", "faq-2"]
+    },
+    {
+      "id": "vid-2",
+      "title": "MfEST 2 Sec 5.2 Fraction Representations",
+      "url": "https://www.youtube.com/watch?v=i0iZ6Y403QU",
+      "description": "Gary Parker introduces fraction representations — part-whole, number line, and set models — in the Math for Elementary School Teachers context. Directly aligned with SLO 6.1 and the visual models emphasized throughout Section 6.1 of your textbook.",
+      "category": "concepts-equivalence",
+      "relatedFaqs": ["faq-2", "faq-3"]
+    },
+    {
+      "id": "vid-3",
+      "title": "An Underrated Way to Compare Fractions",
+      "url": "https://www.youtube.com/watch?v=7pbiKIYsWF0",
+      "description": "Dr. Howie Hua demonstrates a cross-multiplication comparison strategy for ordering fractions — the same method highlighted in the Wonder, Play, Grow section of your textbook. Already embedded in Section 6.1.",
+      "category": "concepts-equivalence",
+      "relatedFaqs": ["faq-4"]
+    },
+    {
+      "id": "vid-4",
+      "title": "MTH212 Section 5.3 Fraction Comparison and Addition Intro",
+      "url": "https://www.youtube.com/watch?v=DH9n87Actm0",
+      "description": "Gary Parker bridges fraction comparison and the introduction to addition — showing why common denominators are necessary before you can add fractions. Connects the ordering work of Section 6.1 directly to the addition work of Section 6.2.",
+      "category": "add-subtract",
+      "relatedFaqs": ["faq-4", "faq-5"]
+    },
+    {
+      "id": "vid-5",
+      "title": "MfEST 2 Sec 5.3 Algorithms for Addition and Subtraction of Fractions",
+      "url": "https://www.youtube.com/watch?v=0v5x0MH7Y6s",
+      "description": "Gary Parker walks through the standard addition and subtraction algorithms for fractions, connecting procedural fluency back to the conceptual models from Section 6.2. Watch this after working through the visual model phase.",
+      "category": "add-subtract",
+      "relatedFaqs": ["faq-5", "faq-9", "faq-11"]
+    },
+    {
+      "id": "vid-6",
+      "title": "MTH212 Section 5.3 Fraction Multiplication Models",
+      "url": "https://www.youtube.com/watch?v=lnyE6sE5ed0",
+      "description": "Gary Parker demonstrates visual models for all three cases of fraction multiplication — whole × fraction, fraction × whole, and fraction × fraction — aligned directly with the three-case framework in Section 6.3 of your textbook.",
+      "category": "mult-div",
+      "relatedFaqs": ["faq-6", "faq-12"]
+    },
+    {
+      "id": "vid-7",
+      "title": "MfEST 2 Sec 5.3 The Area Model for Multiplying Fractions",
+      "url": "https://www.youtube.com/watch?v=dM14zYCv1ig",
+      "description": "Gary Parker works through the area model for fraction × fraction multiplication — the most important visual tool in Section 6.3. Seeing why \\(\\frac{a}{b} \\times \\frac{c}{d} = \\frac{ac}{bd}\\) through this model is a core SLO 6.3 goal.",
+      "category": "mult-div",
+      "relatedFaqs": ["faq-6", "faq-7", "faq-12"]
+    }
+  ],
+  "apps": [
+    {
+      "id": "app-1",
+      "title": "Fraction Finder (Fraction Between)",
+      "url": "https://fractionfinder.netlify.app/",
+      "description": "Enter any two fractions and find a fraction between them — the interactive companion to the Wonder, Play, Grow exploration in Section 6.1. Connects directly to Theorem 6.1.3 on the mediant of two fractions.",
+      "relatedFaqs": ["faq-4"]
+    },
+    {
+      "id": "app-2",
+      "title": "Fraction Benchmark Challenge",
+      "url": "https://fractionbenchmark.netlify.app/",
+      "description": "Practice classifying fractions relative to the benchmarks 0, ½, and 1 — the foundation of estimation strategies in SLO 6.4. Build the intuition that makes fraction computation errors self-correcting.",
+      "relatedFaqs": ["faq-11", "faq-12"]
+    },
+    {
+      "id": "app-3",
+      "title": "Fraction Addition & Subtraction Practice",
+      "url": "https://fractionmath.netlify.app/",
+      "description": "Randomized addition and subtraction practice with immediate feedback. Use after working through the visual models in Section 6.2 to build procedural fluency grounded in conceptual understanding.",
+      "relatedFaqs": ["faq-5", "faq-9", "faq-10"]
+    },
+    {
+      "id": "app-4",
+      "title": "Fraction Multiplication & Division Explorer",
+      "url": "https://fractionmultdiv.netlify.app/",
+      "description": "Interactive visual explorer for all three cases of fraction multiplication and all four methods of fraction division, with step-by-step reveals and a practice mode. Built specifically for Math 204 Section 6.3.",
+      "relatedFaqs": ["faq-6", "faq-7", "faq-8", "faq-14"]
+    }
+  ],
+  "prompts": {
+    "guided": [
+      {
+        "id": "prompt-1",
+        "title": "Help Me Understand Why Fractions Are Hard to Teach",
+        "prompt": "I'm studying Chapter 6 of my Math for Elementary Teachers textbook (by Dr. Romero at Santa Ana College). The chapter explains that students struggle with fractions because they apply whole-number reasoning incorrectly. Can you help me deeply understand the three or four most common fraction misconceptions elementary students have — and for each one, suggest how a teacher could address it conceptually rather than just correcting the procedure? I want to understand the 'why' behind each misconception."
+      },
+      {
+        "id": "prompt-2",
+        "title": "Walk Me Through Fraction Multiplication Conceptually",
+        "prompt": "My textbook describes three cases of fraction multiplication: whole × fraction, fraction × whole, and fraction × fraction — each with a different conceptual meaning. Can you walk me through each case with a visual or real-world model that explains WHY the procedure works? I specifically want to understand the area model for fraction × fraction. After explaining, give me one example of each case to try on my own, then check my work."
+      },
+      {
+        "id": "prompt-3",
+        "title": "Help Me Make Sense of Dividing Fractions",
+        "prompt": "I know the rule 'invert and multiply' for dividing fractions, but I don't really understand why it works. My textbook (Math for Elementary Teachers by Dr. Romero) presents four methods for dividing fractions: Invert and Multiply, Common Denominator, Missing Factor, and Divide Across. Can you explain the conceptual meaning behind at least two of these methods — especially the Missing Factor method — so that I could explain division of fractions to a student without just saying 'flip the second fraction'?"
+      },
+      {
+        "id": "prompt-4",
+        "title": "Build My Fraction Estimation Skills",
+        "prompt": "My textbook emphasizes that students should estimate before computing with fractions. I want to build that habit. Can you give me 5 fraction addition or subtraction problems and ask me to estimate whether each answer will be closer to 0, ½, 1, or greater than 1 — before I compute? After I answer, give me feedback on my reasoning, not just whether I'm right or wrong. Then let me compute and see how close my estimates were."
+      },
+      {
+        "id": "prompt-5",
+        "title": "Connect Fraction Operations to Number Theory",
+        "prompt": "My Math for Elementary Teachers textbook (by Dr. Romero) emphasizes that Chapter 5 number theory — especially GCF and LCM — is the foundation for Chapter 6 fraction operations. I want to really see those connections. Can you show me, with worked examples, exactly how GCF is used to simplify fractions, how LCM is used to find common denominators for addition, and how the concept of 'relatively prime' tells me when a fraction is in simplest form? Then give me a few problems that require me to use all three of these connections."
+      }
+    ],
+    "open": [
+      {
+        "id": "open-1",
+        "title": "Explore Something You're Curious About",
+        "prompt": "Use the AI tool of your choice. Start by describing what you're confused about or curious about from Chapter 6 (The Story of Fractions — Sections 6.1–6.4). Ask the AI to help you explore that idea. Share what you learned, what surprised you, and one question you still have."
+      }
+    ]
+  }
+}
